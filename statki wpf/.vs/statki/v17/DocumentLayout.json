@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wojte\\Downloads\\statki_wpf\\statki wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{315B1D2A-A3FF-46E3-8611-083D784EC2E4}|statki\\statki.csproj|c:\\users\\wojte\\downloads\\statki_wpf\\statki wpf\\statki\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315B1D2A-A3FF-46E3-8611-083D784EC2E4}|statki\\statki.csproj|solutionrelative:statki\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315B1D2A-A3FF-46E3-8611-083D784EC2E4}|statki\\statki.csproj|c:\\users\\wojte\\downloads\\statki_wpf\\statki wpf\\statki\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{315B1D2A-A3FF-46E3-8611-083D784EC2E4}|statki\\statki.csproj|solutionrelative:statki\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wojte\\Downloads\\statki_wpf\\statki wpf\\statki\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "statki\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wojte\\Downloads\\statki_wpf\\statki wpf\\statki\\MainWindow.xaml",
+              "RelativeToolTip": "statki\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-18T08:24:43.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Downloads\\statki_wpf\\statki wpf\\statki\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "statki\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wojte\\Downloads\\statki_wpf\\statki wpf\\statki\\MainWindow.xaml.cs",
+              "RelativeToolTip": "statki\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAtwLcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:09:39.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

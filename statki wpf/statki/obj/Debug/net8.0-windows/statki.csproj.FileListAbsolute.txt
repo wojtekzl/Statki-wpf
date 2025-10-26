@@ -1,0 +1,57 @@
+C:\Visual Studio 2022\statki\statki\bin\Debug\net8.0-windows\statki.exe
+C:\Visual Studio 2022\statki\statki\bin\Debug\net8.0-windows\statki.deps.json
+C:\Visual Studio 2022\statki\statki\bin\Debug\net8.0-windows\statki.runtimeconfig.json
+C:\Visual Studio 2022\statki\statki\bin\Debug\net8.0-windows\statki.dll
+C:\Visual Studio 2022\statki\statki\bin\Debug\net8.0-windows\statki.pdb
+C:\Visual Studio 2022\statki\statki\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Visual Studio 2022\statki\statki\obj\Debug\net8.0-windows\App.g.cs
+C:\Visual Studio 2022\statki\statki\obj\Debug\net8.0-windows\statki_MarkupCompile.cache
+C:\Visual Studio 2022\statki\statki\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Visual Studio 2022\statki\statki\obj\Debug\net8.0-windows\statki.g.resources
+C:\Visual Studio 2022\statki\statki\obj\Debug\net8.0-windows\statki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\statki\statki\obj\Debug\net8.0-windows\statki.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\statki\statki\obj\Debug\net8.0-windows\statki.AssemblyInfo.cs
+C:\Visual Studio 2022\statki\statki\obj\Debug\net8.0-windows\statki.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\statki\statki\obj\Debug\net8.0-windows\statki.dll
+C:\Visual Studio 2022\statki\statki\obj\Debug\net8.0-windows\refint\statki.dll
+C:\Visual Studio 2022\statki\statki\obj\Debug\net8.0-windows\statki.pdb
+C:\Visual Studio 2022\statki\statki\obj\Debug\net8.0-windows\statki.genruntimeconfig.cache
+C:\Visual Studio 2022\statki\statki\obj\Debug\net8.0-windows\ref\statki.dll
+D:\2P\ppad\statki wpf\statki\bin\Debug\net8.0-windows\statki.exe
+D:\2P\ppad\statki wpf\statki\bin\Debug\net8.0-windows\statki.deps.json
+D:\2P\ppad\statki wpf\statki\bin\Debug\net8.0-windows\statki.runtimeconfig.json
+D:\2P\ppad\statki wpf\statki\bin\Debug\net8.0-windows\statki.dll
+D:\2P\ppad\statki wpf\statki\bin\Debug\net8.0-windows\statki.pdb
+D:\2P\ppad\statki wpf\statki\obj\Debug\net8.0-windows\MainWindow.baml
+D:\2P\ppad\statki wpf\statki\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\2P\ppad\statki wpf\statki\obj\Debug\net8.0-windows\App.g.cs
+D:\2P\ppad\statki wpf\statki\obj\Debug\net8.0-windows\statki_MarkupCompile.cache
+D:\2P\ppad\statki wpf\statki\obj\Debug\net8.0-windows\statki.g.resources
+D:\2P\ppad\statki wpf\statki\obj\Debug\net8.0-windows\statki.GeneratedMSBuildEditorConfig.editorconfig
+D:\2P\ppad\statki wpf\statki\obj\Debug\net8.0-windows\statki.AssemblyInfoInputs.cache
+D:\2P\ppad\statki wpf\statki\obj\Debug\net8.0-windows\statki.AssemblyInfo.cs
+D:\2P\ppad\statki wpf\statki\obj\Debug\net8.0-windows\statki.csproj.CoreCompileInputs.cache
+D:\2P\ppad\statki wpf\statki\obj\Debug\net8.0-windows\statki.dll
+D:\2P\ppad\statki wpf\statki\obj\Debug\net8.0-windows\refint\statki.dll
+D:\2P\ppad\statki wpf\statki\obj\Debug\net8.0-windows\statki.pdb
+D:\2P\ppad\statki wpf\statki\obj\Debug\net8.0-windows\statki.genruntimeconfig.cache
+D:\2P\ppad\statki wpf\statki\obj\Debug\net8.0-windows\ref\statki.dll
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\bin\Debug\net8.0-windows\statki.exe
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\bin\Debug\net8.0-windows\statki.deps.json
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\bin\Debug\net8.0-windows\statki.runtimeconfig.json
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\bin\Debug\net8.0-windows\statki.dll
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\bin\Debug\net8.0-windows\statki.pdb
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\obj\Debug\net8.0-windows\statki_MarkupCompile.cache
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\obj\Debug\net8.0-windows\statki.g.resources
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\obj\Debug\net8.0-windows\statki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\obj\Debug\net8.0-windows\statki.AssemblyInfoInputs.cache
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\obj\Debug\net8.0-windows\statki.AssemblyInfo.cs
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\obj\Debug\net8.0-windows\statki.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\obj\Debug\net8.0-windows\statki.dll
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\obj\Debug\net8.0-windows\refint\statki.dll
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\obj\Debug\net8.0-windows\statki.pdb
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\obj\Debug\net8.0-windows\statki.genruntimeconfig.cache
+C:\Users\wojte\Downloads\statki_wpf\statki wpf\statki\obj\Debug\net8.0-windows\ref\statki.dll

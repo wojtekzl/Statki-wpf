@@ -1,0 +1,56 @@
+﻿<Window x:Class="Statki.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gra w Statki" Height="700" Width="1100" WindowStartupLocation="CenterScreen"
+        MinHeight="500" MinWidth="700"
+        Icon="/ship.jpg">
+
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Gra w Statki" FontSize="20" FontWeight="Bold" Margin="10" Grid.ColumnSpan="2" HorizontalAlignment="Center" />
+
+        <Grid Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0">
+                <TextBlock Text="Twoja plansza" FontSize="16" HorizontalAlignment="Center" Margin="0,10,0,0" FontWeight="Bold"/>
+                <Grid x:Name="PlanszaGraczaZNaglowkami" Margin="10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" MaxWidth="500" MaxHeight="500"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1">
+                <TextBlock Text="Plansza Komputera" FontSize="16" HorizontalAlignment="Center" Margin="0,10,0,0" FontWeight="Bold"/>
+                <Grid x:Name="PlanszaAIZNaglowkami" Margin="10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" MaxWidth="500" MaxHeight="500"/>
+            </StackPanel>
+        </Grid>
+
+        <StackPanel Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <TextBlock Text="Wybierz dlugosc statku: " VerticalAlignment="Center" Margin="5"/>
+            <ComboBox x:Name="SelektorDlugosciStatku" Width="100" Margin="5">
+                <ComboBoxItem Content="4"/>
+                <ComboBoxItem Content="3"/>
+                <ComboBoxItem Content="2"/>
+                <ComboBoxItem Content="1"/>
+            </ComboBox>
+            <ComboBox x:Name="SelektorOrientacjiStatku" Width="100" Margin="5">
+                <ComboBoxItem Content="Poziomo" IsSelected="True"/>
+                <ComboBoxItem Content="Pionowo"/>
+            </ComboBox>
+            <Button x:Name="PrzyciskRozpocznijGre" Content="Rozpocznij gre" Click="PrzyciskRozpocznijGre_Click" Margin="5"/>
+            <Button x:Name="PrzyciskZasadyGry" Content="Zasady gry" Click="PrzyciskZasadyGry_Click" Margin="5"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
