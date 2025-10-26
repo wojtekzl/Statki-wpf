@@ -32,6 +32,6 @@ Projekt udostępniony na licencji MIT License – możesz go dowolnie modyfikowa
 
 Autorem projektu jest Wojciech Złonkiewicz.
 
-Projekt wykonano w Czerwcu 2025 roku
+Projekt wykonano w maju 2025 roku
 
 ---
