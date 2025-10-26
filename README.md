@@ -24,3 +24,14 @@ Ten projekt to gra w statki przeciwko komputerowemu przeciwnikowi (botowi) stwor
 1. Sklonuj repozytorium:
    ```bash
    git clone https://github.com/wojtekzl/Statki-wpf.git
+
+---
+
+## 📜 Licencja i autor
+Projekt udostępniony na licencji MIT License – możesz go dowolnie modyfikować i używać w projektach prywatnych lub komercyjnych.
+
+Autorem projektu jest Wojciech Złonkiewicz.
+
+Projekt wykonano w Czerwcu 2025 roku
+
+---
